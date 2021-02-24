@@ -12,3 +12,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ## introducation
 
 Hi I've made a change here. 
+
+another change again to test out. 
+why not working
+do it again
+
+## methods 
+
+Hi I've made a change here. 
+
+another change again to test out. 
+why not working
+do it again
